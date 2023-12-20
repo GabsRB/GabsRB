@@ -1,6 +1,6 @@
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75656&background=FFFFFF00&random=false&width=438&height=56&lines=Hi+there+%F0%9F%91%8B+I'm+Gabrielle+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
+
+#ssss
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabrielle-ramos-barreto-4b715522b)
 
