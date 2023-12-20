@@ -1,4 +1,4 @@
-## Hi there, I'm Gabrielle 🙋‍♀️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75656&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Gabrielle+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabrielle-ramos-barreto-4b715522b)
 
