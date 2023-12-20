@@ -1,4 +1,4 @@
-### Hi there, I'm Gabrielle 🙋‍♀️👋
+###👋 Hi there, I'm Gabrielle 🙋‍♀️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabrielle-ramos-barreto-4b715522b)
 
