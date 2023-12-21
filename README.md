@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/gabrielle-ramos-barreto-4b715522b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div><br/>
 
-### Technologies I use in my daily life
+### Technologies I use in my daily life:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,11 +28,6 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C85C51&height=120&section=footer"/>
-
- 
-
