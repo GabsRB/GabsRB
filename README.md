@@ -20,6 +20,8 @@
 
 </div>
 
+![Linguagens](https://img.shields.io/github/languages/top/GabsRB/README?style=flat-square)
+
 
 <!--
 **GabsRB/GabsRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
