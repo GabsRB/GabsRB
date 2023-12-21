@@ -9,10 +9,10 @@
 </p>
 
 ***
-<div align="center">
-  ![Gabrielle GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsRB&show_icons=true&theme=synthwave)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsRB&layout=compact&theme=synthwave)
-</div>
+
+  ![Gabrielle GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsRB&show_icons=true&theme=synthwave&center=true&vCenter=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsRB&layout=compact&theme=synthwave&center=true&vCenter=true)
+
 
 
 
