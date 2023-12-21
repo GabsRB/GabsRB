@@ -8,7 +8,7 @@
   <strong>Uma estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e estudos que a envolvem.</strong>
 </p>
 
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabrielle-ramos-barreto-4b715522b)
