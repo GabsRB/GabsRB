@@ -1,10 +1,10 @@
-<div align="center">
+<div style="text-align: center;">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C85C51&height=120&section=header"/>
-  <br />
   <a href="https://git.io/typing-svg">
-    <img width="600" height="60" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C85C51&random=false&width=600&height=60&lines=Hello%2C+Word!!%F0%9F%91%8B;%E2%9C%A8I'm+Gabrielle+%F0%9F%99%8B%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%E2%9C%A8;And+welcome+to+my+profile!+%F0%9F%9A%80%F0%9F%92%BB">
+    <img style="width: 600px; height: 60px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C85C51&random=false&width=600&height=60&lines=Hello%2C+Word!!%F0%9F%91%8B;%E2%9C%A8I'm+Gabrielle+%F0%9F%99%8B%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%E2%9C%A8;And+welcome+to+my+profile!+%F0%9F%9A%80%F0%9F%92%BB">
   </a>
 </div>
+
  Uma estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e estudos que a envolvem.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabrielle-ramos-barreto-4b715522b)
