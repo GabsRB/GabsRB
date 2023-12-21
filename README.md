@@ -5,7 +5,7 @@
 </div>
 
 <p align="center" style="font-size: 24px;">
-  <strong>Uma estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e estudos que a envolvem.</strong>
+  <strong>A student of Systems Analysis and Development, passionate about technology and the studies that involve it.</strong>
 </p>
 
 ***
