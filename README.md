@@ -15,9 +15,9 @@
 </div>
 
 ***
-###Contact and Connect:
+### Contact and Connect:
 <div align="center"> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabrielle-ramos-barreto-4b715522b)
+<a href="https://www.linkedin.com/in/gabrielle-ramos-barreto-4b715522b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
 ## Tecnologias que utilizo no meu dia a dia 
