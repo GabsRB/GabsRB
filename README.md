@@ -10,19 +10,14 @@
 
 ***
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabrielle-ramos-barreto-4b715522b)
-
-
-
-
-
   ![Gabrielle GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsRB&show_icons=true&theme=synthwave)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsRB&layout=compact&theme=synthwave)
 
 
 
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabrielle-ramos-barreto-4b715522b)
 
 
 ## Tecnologias que utilizo no meu dia a dia 
