@@ -8,35 +8,7 @@
   <strong>Uma estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e estudos que a envolvem.</strong>
 </p>
 
-<style>
-    .separator {
-      height: 10px;
-      width: 100%;
-      position: relative;
-      overflow: hidden;
-    }
-
-    .bar {
-      height: 100%;
-      width: 50%;
-      background-color: #ff69b4; /* cor rosa */
-      position: absolute;
-      animation: move 2s linear infinite; /* movimento por 2 segundos, linear e infinito */
-    }
-
-    @keyframes move {
-      0% {
-        left: -50%; /* inicia fora da tela à esquerda */
-      }
-      100% {
-        left: 100%; /* termina fora da tela à direita */
-      }
-    }
-  </style>
-
-  <div class="separator">
-    <div class="bar"></div>
-  </div>
+![Bar Animation](https://user-images.githubusercontent.com/your_user_id/your_image_path.gif)
 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
