@@ -8,7 +8,7 @@
   <strong>Uma estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e estudos que a envolvem.</strong>
 </p>
 
-![Bar Animation](https://user-images.githubusercontent.com/your_user_id/your_image_path.gif)
+***
 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
