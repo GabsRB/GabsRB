@@ -16,9 +16,9 @@
 
 ***
 ### Contact and Connect:
-<div>
+<div><br/>
 <a href="https://www.linkedin.com/in/gabrielle-ramos-barreto-4b715522b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>
+</div><br/>
 
 ### Technologies I use in my daily life
 
