@@ -1,7 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C85C51&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C85C51&random=false&width=600&height=60&lines=Hello%2C+Word!!%F0%9F%91%8B;%E2%9C%A8I'm+Gabrielle+%F0%9F%99%8B%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%E2%9C%A8;And+welcome+to+my+profile!+%F0%9F%9A%80%F0%9F%92%BB)](https://git.io/typing-svg)
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C85C51&height=120&section=header"/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C85C51&random=false&width=600&height=60&lines=Hello%2C+Word!!%F0%9F%91%8B;%E2%9C%A8I'm+Gabrielle+%F0%9F%99%8B%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%E2%9C%A8;And+welcome+to+my+profile!+%F0%9F%9A%80%F0%9F%92%BB)](https://git.io/typing-svg)
+</div>
 
  Uma estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e estudos que a envolvem.
 
