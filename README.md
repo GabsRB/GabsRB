@@ -20,7 +20,7 @@
 
 </div>
 
-![Linguagens](https://img.shields.io/github/languages/top/GabsRB/README?style=flat-square)
+
 
 
 <!--
