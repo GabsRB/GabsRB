@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=2000&color=F75656&background=FFFFFF00&random=false&width=438&height=56&lines=Hello+Word,+I'm+Gabrielle+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=C85C51&random=false&width=600&height=60&lines=Hello%2C+Word!!%F0%9F%91%8B;%E2%9C%A8I'm+Gabrielle+%F0%9F%99%8B%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%E2%9C%A8;And+welcome+to+my+profile!+%F0%9F%9A%80%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 <p align="justify"> Uma estudante de Analise e Desenvolvimento de Sistemas, que é apaixonada por tecnologia 
