@@ -10,8 +10,8 @@
 
 ***
 <div align="center">  
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabsRB&show_icons=true&theme=synthwave&center=true&vCenter=true" /> 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsRB&layout=compact&theme=synthwave&center=true&vCenter=true" /> 
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabsRB&show_icons=true&theme=dracula&center=true&vCenter=true" /> 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsRB&layout=compact&theme=dracula&center=true&vCenter=true" /> 
 </div>
 
 ***
